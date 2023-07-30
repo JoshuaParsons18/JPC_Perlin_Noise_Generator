@@ -57,7 +57,7 @@ The GUI interface provides the following options to customize the Perlin noise g
 
 ### Exporting the Noise
 
-After adjusting the settings and generating the noise, you can export the current noise image by clicking the "Export Noise" button. The exported image will be saved as "noise.png" in the project directory. The exported image will have the same intensity as the one displayed on the GUI.
+After adjusting the settings and generating the noise, you can export the current noise image by clicking the "Export Noise" button. The exported image will be saved as "noise.png" and "noise.raw" in the project directory. The exported image will have the same intensity as the one displayed on the GUI.
 
 ## About Perlin Noise
 
